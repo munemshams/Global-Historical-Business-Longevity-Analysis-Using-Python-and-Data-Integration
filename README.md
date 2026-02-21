@@ -6,11 +6,11 @@ What makes a business survive for hundreds or even thousands of years?
 
 Using three structured datasets of world businesses, countries, and business categories, this analysis identifies:
 
--The oldest operating business on each continent
+- The oldest operating business on each continent
 
--Countries missing business longevity data (with and without new business records)
+- Countries missing business longevity data (with and without new business records)
 
--The business categories that have historically lasted the longest across regions
+- The business categories that have historically lasted the longest across regions
 
 This project highlights practical data-engineering skills including data joining, cleaning, aggregation, and cross-table analysis.
 
@@ -61,8 +61,8 @@ categories.csv — business category lookup
 -Asia is home to the world’s oldest continuously operating businesses
 (e.g., Japan’s Kongō Gumi, founded in 578 AD)
 
--Oceania has the highest number of countries without reliable business longevity data
+- Oceania has the highest number of countries without reliable business longevity data
 
--Categories like Hospitality, Postal Services, and Banking consistently appear among the oldest surviving industries
+- Categories like Hospitality, Postal Services, and Banking consistently appear among the oldest surviving industries
 
--There is a strong correlation between cultural continuity and long-term business survival
+- There is a strong correlation between cultural continuity and long-term business survival

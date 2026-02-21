@@ -2,7 +2,7 @@
 
 This project explores the fascinating question:
 
-What makes a business survive for hundreds — or even thousands — of years?
+What makes a business survive for hundreds or even thousands of years?
 
 Using three structured datasets of world businesses, countries, and business categories, this analysis identifies:
 
